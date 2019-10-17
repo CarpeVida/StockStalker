@@ -1,0 +1,7 @@
+AAPL
+MA
+GOOG
+PYPL
+SPYG
+FB
+SQ
